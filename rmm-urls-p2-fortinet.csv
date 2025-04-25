@@ -34,7 +34,6 @@ remotedesktop-pa.googleapis.com
 .dwservice.net
 github.com/dwservice/
 github.com/dwservice/agent
-
 .setme.net
 .set.me
 .techinline.net
@@ -72,7 +71,6 @@ geo.netsupportsoftware.com
 .parsec.app
 .parsecusercontent.com
 .parsecgaming.com
-
 .pdq.com
 .pdq.tools
 .proxynetworks.com
@@ -126,3 +124,5 @@ raw.githubusercontent.com/zerotier/
 assist.zoho.com
 remotedesktop.google.com
 remotedesktop-pa.googleapis.com
+chromewebstore.google.com/detail/chrome-remote-desktop/
+play.google.com/store/apps/details?id=com.google.chromeremotedesktop*
